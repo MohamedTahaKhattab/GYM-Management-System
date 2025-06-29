@@ -177,6 +177,3 @@ This project was developed as the final assignment for the Object-Oriented Analy
 
 This project is part of academic coursework at the Egyptian Chinese University. Please refer to your institution's policies regarding code sharing and academic integrity when using this repository.
 
-## Acknowledgments
-
-Developed as part of the Object-Oriented Analysis and Design curriculum at the Egyptian Chinese University.
